@@ -1,1 +1,2 @@
 This is story.txt file
+Edit by khiemtd at readme-edits branch
